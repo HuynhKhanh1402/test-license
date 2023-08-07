@@ -1,0 +1,4 @@
+name: test-license
+version: '${project.version}'
+main: dev.khanh.testlicense.Test_license
+api-version: '1.16'
